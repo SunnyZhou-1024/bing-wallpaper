@@ -17,7 +17,7 @@ python3 ./src/downloader.py
 ```
 ### Notes
 If you want to commit to your own github repo automatically every download, please configure as follow:
-1. Git should be install on your machine correctlly;
+1. Git should be installed on your machine correctlly;
 2. Configure your repo to store your credential:
 ```bash
 git config --local credential.helper store
