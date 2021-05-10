@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 from urllib.request import Request, urlopen
 import base64
 import os
